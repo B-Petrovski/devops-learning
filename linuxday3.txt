@@ -1,0 +1,5 @@
+Day 3 – Ubuntu Linux via WSL2
+
+- Real Linux environment
+- Using apt package manager
+- Preparing for Docker and CI/CD
