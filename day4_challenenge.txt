@@ -1,0 +1,5 @@
+day4 Git mini challenge >> day4_challenenge.txt
+git status
+
+echo day4 Git mini challenge
+Adding a second line for practice
